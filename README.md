@@ -1,7 +1,7 @@
 # SpriteFramework: SpaceInvaders e FreezeMonsters
 
 ## Visão Geral
-O projeto consiste na implementação dos 2 jogos, utilizando um framework. Desenvolvido para a disciplina de Princípios e Padrões de Projeto(4º período), o projeto tem como objetivo estudar e aplicar padrões de projeto.
+O projeto consiste na implementação dos 2 jogos, utilizando um framework. Desenvolvido para a disciplina de Princípios e Padrões de Projeto(4º período), no curso de Ciência da computação - UFU, o projeto tem como objetivo estudar e aplicar padrões de projeto.
 
 ## Estrutura do Projeto
 O projeto está organizado em:
